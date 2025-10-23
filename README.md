@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rachel
+# 👋 Hi, I'm Rachel Avril
 
 **Aspiring Full-Stack Web Developer | Student of The Odin Project**
 
